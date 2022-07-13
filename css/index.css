@@ -1,0 +1,24 @@
+@font-face {
+    font-family: miestilo;
+    src: url(/Modulo04/fuentes/blueberry01.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: mitexto;
+    src: url(/Modulo04/fuentes/blueberry02.otf);
+    font-weight: 900;
+}
+
+
+h1 {
+    font-family: miestilo;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: mitexto;
+    font-weight: 900;
+}
+
+@media screen {}
